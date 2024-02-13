@@ -41,6 +41,4 @@ This project implements a Tic Tac Toe game using principles of game theory. The 
 - The computer will make intelligent moves based on game theory principles.
 - The game ends when one player wins or the board is full.
 Happy gaming!
-```
 
-.
